@@ -25,7 +25,7 @@ SECRET_KEY = 'vvt2psm2-&fmr%11%51=b(1lm-ht^)@49=bv6l==e++ls=4l26'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
